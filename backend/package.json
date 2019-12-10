@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "WebSite212_Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "HongVa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
